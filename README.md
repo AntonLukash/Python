@@ -1,7 +1,7 @@
 markdown
 # USOF
 
-![Node.js](https://img.shields.io/badge/Node.js-%3E%3D14.0.0-green) ![MySQL](https://img.shields.io/badge/MySQL-Database-blue) ![License](https://img.shields.io/badge/License-ISC-blue)
+![Node.js](https://img.shields.io/badge/Node.js-%3E%3D14.0.0-green) ![MySQL](https://img.shields.io/badge/MySQL-Database-blue) 
 
 > **USOF** is a forum platform inspired by Stack Overflow, designed for programmers and enthusiasts. It allows users to create accounts, post questions, comment, and like content. Administrators can manage content and users via an integrated AdminJS panel.
 
