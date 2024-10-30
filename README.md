@@ -8,12 +8,9 @@ markdown
 ## Table of Contents
 - [Features](#features)
 - [Installation and Setup](#installation-and-setup)
-- [Environment Variables](#environment-variables)
 - [API Documentation](#api-documentation)
 - [Admin Panel](#admin-panel)
-- [Project Structure](#project-structure)
 - [Usage Examples](#usage-examples)
-- [Development](#development)
 - [License](#license)
 
 ---
@@ -135,4 +132,4 @@ Authorization: Bearer <token>
 
 ## License
 
-This project is licensed under the ISC License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the ISC License. MIT © Anton
